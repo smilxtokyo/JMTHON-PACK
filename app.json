@@ -1,6 +1,6 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
+  "name": "تم تغيير رابط السورس",
+  "description": "تابع القناه تم تغيير رابط السورس @JMTHON ",
   "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
   "keywords": [
     "plugin",
@@ -12,57 +12,46 @@
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
-      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
-      "value": ""
+      "description": "تم تغيير رابط السورس",
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     },
     "APP_ID": {
-      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
-      "value": ""
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     },
     "API_HASH": {
-      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
-      "value": ""
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     },
     "STRING_SESSION": {
-      "description": "هـنا ضع كـود تيرمكس ",
-      "value": ""
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     },
     "TG_BOT_USERNAME": {
-      "description": " @ هنـا ضع معرف بوت التلي الخاص بك بدون ",
-      "value": ""
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     },
     "TG_BOT_TOKEN": {
-      "description": "هنـا ضع توكن بوتك .",
-      "value": ""
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     },
     "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
-      "value": ".",
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon",
       "required": false
     },
     "ENV": {
-      "description": "لا تغيـرها ابدا.",
+      "description": "تم تغيير رابط السورس", 
       "value": "ANYTHING",
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "ايبـي هيروكو احصل عليه من هذا الرابط مطلوبة ! https://dashboard.heroku.com/account",
+      "description": "تم  تغيير رابط السورس", 
       "value": ""
     },
     "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق اول اسم خليته ",
-      "value": ""
-    },
-    "DEFAULT_BIO": {
-      "description": "هنا خلي نبذتك حسابك الي تطلع وي البايو الوقتي ",
-      "value": "",
-      "required": false
-    },
-    "TZ": {
-      "description": "هنـا ضع المنطقه الزمنية الخاص بك  احصل عليه من  http://www.timezoneconverter.com/cgi-bin/findzone.tzc",
-      "value": "Asia/Baghdad",
-      "required": false
-    },
+      "description": "تم تغيير رابط السورس", 
+      "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
       "value": "Jmthon-iq",
