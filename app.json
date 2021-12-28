@@ -52,6 +52,7 @@
     "HEROKU_APP_NAME": {
       "description": "تم تغيير رابط السورس", 
       "value": "https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon"
+    }, 
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
       "value": "Jmthon-iq",
